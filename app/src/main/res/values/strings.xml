@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">앱이름</string>
+    <string name="url">https://m.naver.com</string>
+    <string name="file_provider_authorities">com.bluetoolth.cupping.fileprovider</string>
+
+    <string name="location_permission_deny">위치 권한이 필요합니다. 설정 페이지로 이동 후 위치 기능 사용을 설정 하세요 </string>
+    <string name="camera_permission_deny">카메라 권한이 필요합니다. 설정 페이지로 이동 후 카메라 기능 사용을 설정 하세요</string>
+    <string name="external_storage_permission_deny">저장공간 권한이 필요합니다. 설정 페이지로 이동 후 저장공간 기능 사용을 설정 하세요</string>
+    <string name="permission_confirm">확인</string>
+</resources>
